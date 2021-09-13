@@ -13,5 +13,5 @@ Classes: <br/>
 ![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/d.PNG)
 ![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/a.PNG)
 ![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/b.PNG)
-![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/c.PNG)
+![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/e.PNG)
 
