@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>I:/Kaggle/face_mask_from_Kaggle/updated\labels/</filename>
+	<path>00000589.xmlI:/Kaggle/face_mask_from_Kaggle/updated\labels/</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>89</ymin>
+			<xmax>196</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>93</ymin>
+			<xmax>81</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	
+</annotation>	

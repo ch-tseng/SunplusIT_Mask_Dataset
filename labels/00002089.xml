@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sunplusit (626).jpg</filename>
+	<path>D:\works\sunplusit_mask_indoor\images\sunplusit (626).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>1947</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1142</xmin>
+			<ymin>324</ymin>
+			<xmax>2270</xmax>
+			<ymax>1701</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sunplusit (810).jpg</filename>
+	<path>D:\works\sunplusit_mask_indoor\images\sunplusit (810).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1163</width>
+		<height>609</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>159</ymin>
+			<xmax>709</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>
