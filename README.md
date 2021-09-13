@@ -1,5 +1,5 @@
 # Dataset of mask wearing<br/>
-![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/sunplusit.jpg)<br/>
+![image](https://github.com/ch-tseng/SunplusIT_Mask_Dataset/raw/main/sunplusit_thin.jpg)
 ## The dataset is offered by SunplusIT & EDEN Social Welfare Foundation<br/>
 ## 本資料集由凌陽創新科技與伊甸數位庇護工廠所提供<br/><br/>
 Labled images: 3,160 images<br/>
